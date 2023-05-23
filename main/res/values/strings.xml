@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">newproject</string>
+    <string name="select_speed">Select a speed:</string>
+
+    <string-array name="speed_options">
+        <item>0 RPM</item>
+        <item>70 RPM</item>
+        <item>125 RPM</item>
+        <item>160 RPM</item>
+        <item>220 RPM</item>
+    </string-array>
+
+</resources>
